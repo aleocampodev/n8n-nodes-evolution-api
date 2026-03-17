@@ -7,7 +7,7 @@ This is an advanced, custom [n8n](https://n8n.io/) node specifically designed to
 Unlike basic messaging nodes, `n8n-nodes-evolution-api` is built with a **declarative, future-proof mindset**. It offers both high-level actions (like sending texts) and an authenticated *Custom API Request* engine, allowing you to consume any Evolution API endpoint without waiting for the node to be manually updated in the repository.
 
 [n8n](https://n8n.io/) is a fair-code licensed workflow automation tool.
-[Evolution API](https://evolution-api.com/) is a powerful open-source WhatsApp API.
+[Evolution API](https://doc.evolution-api.com/) is a powerful open-source WhatsApp API.
 
 ---
 

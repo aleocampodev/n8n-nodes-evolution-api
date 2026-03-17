@@ -9,7 +9,7 @@ export class EvolutionApiApi implements ICredentialType {
 	name = 'evolutionApiApi';
 	displayName = 'Evolution API';
 	icon: Icon = { light: 'file:evolution.svg', dark: 'file:evolution.dark.svg' };
-	documentationUrl = 'https://evolution-api.com/docs';
+	documentationUrl = 'https://doc.evolution-api.com/';
 
 	test: ICredentialTestRequest = {
 		request: {
